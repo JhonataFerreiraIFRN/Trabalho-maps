@@ -94,7 +94,7 @@ projeto/
 
 3. **Desenvolvimento**:
    ```bash
-   # Compilar TypeScript
+   # Transpilar o TypeScript para JavaScript
    tsc aplication_maps.ts --target ES6 --lib ES6,DOM
    ```
 
